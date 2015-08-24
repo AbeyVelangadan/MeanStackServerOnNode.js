@@ -1,0 +1,17 @@
+{
+  "name": "NodejsConsoleApp1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": "ABEY",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "bson": "^0.4.11",
+    "express": "^4.13.3",
+    "mongodb": "^2.0.42",
+    "mongoose": "^4.1.3"
+  }
+}
